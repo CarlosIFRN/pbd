@@ -1,0 +1,14 @@
+# Backend (Maven/Java)
+backend/target/
+*.class
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Editor / tooling
+.vscode/
+.idea/
+.claude/
+*.log
